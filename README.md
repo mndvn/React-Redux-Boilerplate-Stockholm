@@ -1,6 +1,8 @@
 # Hi Everyone! 
 
-This is my personal webpage. I have learnt lots of things about React and Redux development from Alpcan Aydin. In this project, I used the tools and libraries following:
+This is a React-Redux Boilerplate that use the techs on the following below. I have learnt lots of things about React and Redux development from open source community. I aimed to create a boilerplate that we can develop it together, which uses modern libraries with latest versions.
+
+It is also a kind of configured create-react-app.
 
 1. Eslint / Airbnb
 2. Stylelint / Airbnb
@@ -10,9 +12,7 @@ This is my personal webpage. I have learnt lots of things about React and Redux 
 6. Travis
 7. Snapshot Test
 8. Lint-Staged
-9.  
-
-
+9. Sass
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
